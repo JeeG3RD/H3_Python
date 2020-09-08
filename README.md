@@ -17,3 +17,5 @@ Shift+Enter = Run la cellule + Sélecttionne la suivante
 Ctrl+Enter = Run les cellules sélectionnées
 
 Alt+Enter = Run la cellule + Insert en bas
+
+Shift+(Tab*2) = Doc rapide
